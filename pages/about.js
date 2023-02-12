@@ -16,7 +16,7 @@ function About() {
         <div className='bg-[#EBE3CC] pb-0' ref={scrollRef}>
             <Header/>
             <div className='pt-8 px-4 max-w-[1000px] mx-auto'>
-                <h1 className='font-semibold mb-2 text-2xl lg:text-3xl'>Philoxenia - φιλοξενια</h1>
+                <h1 className='font-semibold mb-2 text-2xl lg:text-3xl'>Philoxenia - xxx φιλοξενια</h1>
                 
                 <div className='lg:flex '>
                 <div>

@@ -11,7 +11,7 @@ function Restaurent() {
     return ( 
         <div className='w-screen h-screen bg-yellow-200'>
             <Header/>
-            
+            ryryry
             <Footer/>
         </div>
      );

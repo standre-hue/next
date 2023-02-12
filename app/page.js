@@ -4,8 +4,8 @@ import styles from './page.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-import Header from './components/Header.js'
-import Footer from './components/Footer.js'
+import Header from '../components/Header.js'
+import Footer from '../components/Footer.js'
 
 function Restaurent() {
     return ( 
